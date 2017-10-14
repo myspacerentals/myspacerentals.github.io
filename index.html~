@@ -97,11 +97,8 @@
                     <li>Railway Station</li>
                     <li>Bus Stand</li>
                     </ul> </p>
-
                     </div>
-                     <div class="col s12">
-                  <hr>
-                </div>
+                    <hr>
                     <div class=" center-align col s12">
                       <h4><b>Sight-seeing Tours</h4></b>   
                       <div class="row">
@@ -139,23 +136,19 @@
                           Calangute Goa.
                         </h5>
                       </div>
-                      <!--
                       <div class="col m4 s12">
-                        <i class="fa fa-envelope fa-2x"></i>             
-                        <h5>Reach us at:
+                        <i class="fa fa-envelope fa-2x"></i>
+                      <h5>Reach us at:
                         rentalsmyspace@gmail.com</h5>
                       </div>
-                    -->
                       <div class="col m4 s12">
                         <i class="fa fa-phone fa-2x"></i>
                         <h5> Call us on:
                           <ul>
-                            <li>9923652812</li>
-                             <li>7972449284</li>
                             <li>9765289936</li>
-                            
-       
-                            
+                            <li>9923652812</li>
+                            <li>8329632690</li>
+                            <li>7972449284</li>
 
 
                           </ul>
